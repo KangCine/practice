@@ -1,8 +1,3 @@
 # practice
-리드미 사용법 연습합니다
 
-한칸 더 띄워주셔야합니다.
-
-간단한 글 내용을 수정합니다
-
-내용을 추가합니다.
+![이미지](https://postfiles.pstatic.net/MjAyMTA2MDdfMTkw/MDAxNjIzMDc1NzkzMzk4.Jb2x6apV8Z5zP94aiL1h5MTIImE-EtPn-m4-JjSIsDkg.En3eVxb91kV3R6kmNsqZEKsbPbAsXVAAaMYoGZPgReIg.JPEG.kwg940930/KakaoTalk_20210607_230033619.jpg?type=w773)
